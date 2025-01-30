@@ -15,4 +15,5 @@ values = [60, 100, 120]
 weights = [10, 20, 30]
 capacity = 50
 n = len(values)
-print("Maximum value in Knapsack:", knapsack(capacity, weights, values, n))
+print("Maximum value in Knapsack is :", knapsack(capacity, weights, values, n))
+#end 
